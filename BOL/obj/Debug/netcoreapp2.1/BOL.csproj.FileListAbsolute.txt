@@ -1,0 +1,9 @@
+D:\0MyProject\BookSale\BOL\bin\Debug\netcoreapp2.1\BOL.deps.json
+D:\0MyProject\BookSale\BOL\bin\Debug\netcoreapp2.1\BOL.dll
+D:\0MyProject\BookSale\BOL\bin\Debug\netcoreapp2.1\BOL.pdb
+D:\0MyProject\BookSale\BOL\obj\Debug\netcoreapp2.1\BOL.csprojAssemblyReference.cache
+D:\0MyProject\BookSale\BOL\obj\Debug\netcoreapp2.1\BOL.csproj.CoreCompileInputs.cache
+D:\0MyProject\BookSale\BOL\obj\Debug\netcoreapp2.1\BOL.AssemblyInfoInputs.cache
+D:\0MyProject\BookSale\BOL\obj\Debug\netcoreapp2.1\BOL.AssemblyInfo.cs
+D:\0MyProject\BookSale\BOL\obj\Debug\netcoreapp2.1\BOL.dll
+D:\0MyProject\BookSale\BOL\obj\Debug\netcoreapp2.1\BOL.pdb
